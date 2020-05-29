@@ -1,4 +1,4 @@
-DoB Live 
+# DoB Live 
 
 Repositório oficial do DoB (DevOps Bootcamp) Live
 
@@ -15,3 +15,7 @@ Você pode encontrar o material dos episódios anteriores na pasta `episódios` 
 ### Qual o canal do YouTube posso ver os episódios?
 
 O canal oficial do YouTube aonde você pode ver todos os episódios é o canal do DevOps Bootcamp (https://www.youtube.com/channel/UCWgCxPzkN4cplBJW_bUOdoQ)
+
+# Sugestão de Episódio
+
+Quer sugerir um episódio? Abra uma `issue` para isso. Se a sua sugestão for escolhida lhe daremos os devidos créditos =)
